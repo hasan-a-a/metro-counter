@@ -46,6 +46,6 @@ h3 {
 #delete-btn{
     background: #07d2ff;
 }
-#increment-btn:hover ,#save-btn:hover ,#reset-btn,:hover ,#delete-btn:hover{
+#increment-btn:hover ,#save-btn:hover ,#reset-btn:hover ,#delete-btn:hover{
     opacity: 0.6;
 }
