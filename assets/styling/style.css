@@ -24,7 +24,7 @@ h3 {
 h3 {
     color: black;
 }
-#increment-btn ,#save-btn ,#reset-btn {
+#increment-btn ,#save-btn ,#reset-btn #delete-btn{
     border: none;
     padding: 10px 5px;
     color: white;
@@ -43,6 +43,9 @@ h3 {
 #reset-btn {
     background-color: #880000;
 }
-#increment-btn:hover ,#save-btn:hover ,#reset-btn:hover {
+#delete-btn{
+    background: #07d2ff;
+}
+#increment-btn:hover ,#save-btn:hover ,#reset-btn, #delete-btn:hover {
     opacity: 0.6;
 }
